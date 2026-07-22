@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.main {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%), url('medical_icons.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    justify-content: flex-start;
+    padding: 20px; 
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+}
+
+.icon .logo {
+    color: white;
+    font-size: 24px;
+}
+
+.menu {
+    flex-grow: 1; 
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    justify-content: center; 
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li {
+    margin: 0 15px; 
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu ul li a:hover{
+    color: #d07a33;
+    }
+
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.srch {
+    padding: 5px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border: none;
+    background-color: #fff;
+    color: #000;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+.btn:hover {
+    color: #d07a33;
+}
+
+.container {
+    max-width: 400px; 
+    padding: 30px; 
+    background-color: rgba(17, 69, 104, 0.893);
+    border-radius: 10px;
+    margin-top: 20px;
+    position: absolute; 
+    left: 20px; 
+    top: 50%; 
+    transform: translateY(-50%); 
+}
+
+.form-group {
+    margin-bottom: 20px; /* Adjusted spacing between form fields */
+    color: #f2eeeafa;
+    font-size: 30px;
+}
