@@ -17,3 +17,5 @@ The Medical Chatbot is an AI-powered healthcare assistant designed to provide us
 
 
 ![image alt](https://github.com/sayalimahale352003-hash/Medical-Chatbot-AI-ML-/blob/14de26c82de09aa5404328323c73e6d3b1f34c1a/Screenshot%20(682).png)
+
+![image alt](https://github.com/sayalimahale352003-hash/Medical-Chatbot-AI-ML-/blob/a9f088069d970b7e9c016f7ce45cac8f0742acfd/Screenshot%20(675).png)
