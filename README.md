@@ -13,3 +13,6 @@ The Medical Chatbot is an AI-powered healthcare assistant designed to provide us
 
 
 ⚙️ How It Work-User enters a medical question or symptom ->The chatbot preprocesses the text using NLP->The trained Machine Learning model predicts the user's intent->The chatbot retrieves the most appropriate response->The response is displayed to the user.
+
+
+
